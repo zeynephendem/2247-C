@@ -1,5 +1,5 @@
 <details>
-<summary><strong>2247-C – Hububat Piyasası Veri İşleme Süreci</strong></summary>
+<summary><strong> 📂 2247-C – Hububat Piyasası Veri İşleme Süreci</strong></summary>
 
 <br>
 
@@ -42,20 +42,17 @@
 <br>
 
 #### Dosya 07 – `07_filter_final_products.py`
-- Veri seti yalnızca **Arpa** ve **Buğday** ürünlerini kapsayacak şekilde sınırlandırılmıştır.
+- Analiz kapsamı belirlenerek veri seti Arpa ve Buğday ürünlerini içeren kayıtlarla sınırlandırılmıştır.
 
 <br>
 
 #### Dosya 08 – `08_generate_final_weekly_dataset.py`
-- Ürün, borsa ve zaman bazında son düzenlemeler yapılmıştır.
-- Haftalık düzeyde sadeleştirilmiş nihai veri seti oluşturulmuştur.
+- Alt ürün ayrımları kaldırılarak ürünler Arpa ve Buğday ana grupları altında toplanmıştır.
+- Haftalık düzeyde fiyat ve işlem özetlerinin analizine uygun nihai veri yapısı oluşturulmuştur.
 
-</details>
+<br><br>
 
----
-
-## Kullanılan Python Kütüphaneleri
-
+#### Kullanılan Python Kütüphaneleri 📚
 - **pandas** — Veri okuma/yazma, temizleme, gruplama ve birleştirme işlemleri  
 - **numpy** — Sayısal veri temizliği ve NaN yönetimi  
 - **os** — Dosya ve klasör yönetimi  
@@ -64,3 +61,5 @@
 - **urllib** — Harici servislerden (OpenStreetMap) koordinat verisi çekilmesi  
 - **json** — Harici servis yanıtlarının ayrıştırılması  
 - **time** — Harici servis çağrıları arasında bekleme (rate limit)
+
+</details>
