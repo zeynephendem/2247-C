@@ -1,5 +1,5 @@
 <details>
-<summary><strong> 📂 2247-C – Hububat Piyasası Veri İşleme Süreci</strong></summary>
+<summary><strong><h2>📂 2247-C – Hububat Piyasası Veri İşleme Süreci</h2></strong></summary>
 
 <br>
 
