@@ -52,6 +52,8 @@
 
 <br><br>
 
+</details>
+
 #### Kullanılan Python Kütüphaneleri 📚
 - **pandas** — Veri okuma/yazma, temizleme, gruplama ve birleştirme işlemleri  
 - **numpy** — Sayısal veri temizliği ve NaN yönetimi  
@@ -62,4 +64,4 @@
 - **json** — Harici servis yanıtlarının ayrıştırılması  
 - **time** — Harici servis çağrıları arasında bekleme (rate limit)
 
-</details>
+
