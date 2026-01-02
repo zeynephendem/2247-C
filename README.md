@@ -1,7 +1,5 @@
 ## 📂 2247-C – Hububat Piyasası Veri İşleme Süreci
-
 <br>
-
 #### Dosya 01 – `01_ingest_and_clean_hububat.py`
 - ZIP dosyaları içindeki Excel borsa verileri okunmuş ve tek bir veri setinde birleştirilmiştir.
 - Ürün ve borsa adları standartlaştırılmış, ana ürün grupları oluşturulmuştur.
