@@ -54,7 +54,7 @@
 
 </details>
 
-#### Kullanılan Python Kütüphaneleri 📚
+## Kullanılan Python Kütüphaneleri 📚
 - **pandas** — Veri okuma/yazma, temizleme, gruplama ve birleştirme işlemleri  
 - **numpy** — Sayısal veri temizliği ve NaN yönetimi  
 - **os** — Dosya ve klasör yönetimi  
