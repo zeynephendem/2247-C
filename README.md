@@ -1,5 +1,4 @@
-<details>
-<summary><strong><h2>📂 2247-C – Hububat Piyasası Veri İşleme Süreci</h2></strong></summary>
+## 📂 2247-C – Hububat Piyasası Veri İşleme Süreci
 
 <br>
 
@@ -51,8 +50,6 @@
 - Haftalık düzeyde fiyat ve işlem özetlerinin analizine uygun nihai veri yapısı oluşturulmuştur.
 
 <br><br>
-
-</details>
 
 ## Kullanılan Python Kütüphaneleri 📚
 - **pandas** — Veri okuma/yazma, temizleme, gruplama ve birleştirme işlemleri  
